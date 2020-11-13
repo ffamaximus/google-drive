@@ -91,7 +91,7 @@ public class ArchivosController {
 		// Print the names and IDs for up to 10 files.
 		File upload = new File();
 		upload.set((new Date().getTime() + file.getName()), file);
-		java.io.File filePath = new java.io.File("cargadoscontrol/" + file.getName());
+		java.io.File filePath = new java.io.File(file.getName());
 		FileContent mediaContent = new FileContent(file.getContentType(), filePath);
 		File response = service.files().create(upload, mediaContent).setFields("id, parents").execute();
 		return new ResponseEntity<>(response.getId(), HttpStatus.OK);
@@ -106,7 +106,7 @@ public class ArchivosController {
 		GoogleClientSecrets clientSecrets = GoogleClientSecrets.load(JSON_FACTORY, new InputStreamReader(in));
 
 		// Build flow and trigger user authorization request.
-		List<String> scopes = Collections.singletonList(DriveScopes.DRIVE_METADATA_READONLY);
+		List<String> scopes = Collections.singletonList(DriveScopes.DRIVE);
 		GoogleAuthorizationCodeFlow flow = new GoogleAuthorizationCodeFlow.Builder(HTTP_TRANSPORT, JSON_FACTORY,
 				clientSecrets, scopes)
 						.setDataStoreFactory(new FileDataStoreFactory(new java.io.File(TOKENS_DIRECTORY_PATH)))

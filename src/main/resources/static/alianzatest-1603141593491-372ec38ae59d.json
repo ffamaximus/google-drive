@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alianzatest-1603141593491",
+  "private_key_id": "372ec38ae59d064d7bb767deea99cf1aa8da6e3e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDR6FjJojRH5xlf\nAHeCgIxJwp8IkA5s68kpJWpWnEfYQbCe5diUc/X24kEWPzxbzSK/ILrfPhBrfcf/\nfOMgUM4Mx1Zu7BxY2T/JckTRKzG5bJfLnlDqwwar2AaMhZDJqYKELnZPhTBlHLNv\nkH8VtXIjkLjTg7PEU9LJT/WHYZ5RF0A9IUE3FLXEI1Sz8pWJJZH6Qk4TD3N+27zu\nCrI1j/gL3YeE4xuMa805TIPatVx0zfgwOxpTBL8FGOd20mtILI8yhiJw37Mo6aWP\nCEeSDwuIIrpTZELun1Yr6tgyqytZvBATsARqKszYlDrvrfN96jrRvwt3YPS2PXJS\n8iRQhp+RAgMBAAECggEAArBWvtJ4l/kyXoCrhzztTx6SmfH6dVO54nCLwatD0lXZ\nFNf947zuiCiSy92ogMaKbOdW7XgmjrHwR2oKoMXYNdqx1T7qCAtUYVi43/MNMoJd\nGWsgPzmbUsU0JEWruqGUveu4cUFUAt+QvtubfSQzX5hBfdggi+HE//Ypv3+1HvXG\n2NGUz8BZWr1wESoCEz1MOifTpaH393N3VFJ9Ey05CK1eqeDwn1wmRJSQD58SD780\nJZoIqHKCw9Sd6mrSOcQ3q10Det+dZZs9T2EN5QhtyihFo2CznWpBuv1HbJh8r1rl\nMCpRev+zUu/zFIt2Kbre+CzolA30rjTTBKqB54KsjwKBgQDrrkQpmuAZevi1txKt\nOYAMRVZBVbnLqJcFYGq4K++AohZZgHtButNuVm8+/25PTjIPbixBY+3OVQBYlDxt\nXjemFu5kav0TA1PHF/FLgKymUvLxEEE38iGA+sw3uiJtDm6ISXWhVy6LRdqKUN+I\ntK9kVeaNK9koqHkdn8bwMMy7LwKBgQDkAT1DHZrjAWppvn2kicbsfKTA0jAeBu1q\n7KuYjsvbUAop0yAwVMpXpmJ8c9ySAmRxIIkM7ruyhx3417AsZBqXNLHc21EVyZp3\n99E4uZ1Ns2oXvVDJY0vuH0cO5gkxAEMmMIjdkJEfYKGYEvoc95IksAc5iqSx7oI9\n/Arbr1ShPwKBgFk6RPwrcqSy9e52PU/v8Ra0OY/K0OjWDzct5bmMiMR+mU+RYRjl\njp67gqqrMiw8Qp+s6nxnROVVMShYFvihLxhmniLOjrngDJvX6LbZJIRj6y5xJP/1\nX9HhIegHRHldeWOHzE0lIK4B6FdtfvPW1IB8NSlFbJYEErawgzT0hM5pAoGASiJx\nBeqRWvAx5nIOrjoyGOCqPRvak1jTR2nunWsIs6WBuHmyRKS9KeSqryaI+FyYxgO7\nLB5Pn0u5nhibasOdtb5nepVA9yGW/RzxxUzs7b/BZjijFOgZXzKCS0DWij04mCk9\nxzTjSt2DjUvWUSbaON2Xa8k9pbEUXg0ehrGqhccCgYEAoAwoTbxpncNsCL9wlj0H\nGxWDTHX1hpXnm8tY1cndNqVAtwuTt9fYue36TXEaryOo71XlS4qL9zcEVwcn5X8w\npdTsy+RYNEn6hGtjQ3jP7bgZTa0/S1J9G60+ClccDEXRaBIwG2igESaKrrl8HflI\n2URu5SerpwCyqivuv/KiuxE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "alianzatestdrive@alianzatest-1603141593491.iam.gserviceaccount.com",
+  "client_id": "116709603073968190539",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/alianzatestdrive%40alianzatest-1603141593491.iam.gserviceaccount.com"
+}
